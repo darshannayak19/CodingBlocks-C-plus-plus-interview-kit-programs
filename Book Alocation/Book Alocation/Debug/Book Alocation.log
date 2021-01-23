@@ -1,0 +1,3 @@
+﻿  Book Alocation.cpp
+C:\Users\abc\Documents\Coding Blocks\Book Alocation\Book Alocation\Book Alocation.cpp(27): warning C4715: 'isPossible': not all control paths return a value
+  Book Alocation.vcxproj -> C:\Users\abc\Documents\Coding Blocks\Book Alocation\Debug\Book Alocation.exe
